@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "nchiumenti.github.io"
+  title: "Nicholas Chiumenti"
   navbar:
     left:
       - href: index.qmd

@@ -1,16 +1,20 @@
 ---
 title: "Nicholas Chiumenti"
 image: assets/photo.jpg
-toc: true
+toc: false
 about: 
   template: jolla
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/nicholas-chiumenti-44006b53
+    - text: SSRN
+      href: https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=3124815
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=XOaSpUsAAAAJ 
     - text: GitHub
       href: https://github.com/nchiumenti
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/nicholas-chiumenti-44006b53
     - text: Email
       href: mailto:nicholas.chiumenti@usda.gov
 ---

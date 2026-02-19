@@ -5,10 +5,13 @@ project:
 website:
   title: "Nicholas Chiumenti"
   navbar:
-    left:
+    right:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume/CV
+      - href: public.qmd
+        text: Public
 
 format:
   html:

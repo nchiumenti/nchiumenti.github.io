@@ -8,10 +8,14 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: resume.qmd
-        text: Resume/CV
-      - href: public.qmd
+      - href: 404.qmd
+        text: Research
+      - href: 404.qmd
         text: Public
+      - href: 404.qmd
+        text: Projects
+      - href: 404.qmd
+        text: Resume/CV
 
 format:
   html:

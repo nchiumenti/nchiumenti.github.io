@@ -1,0 +1,5 @@
+---
+title: Page Note Found
+---
+
+The page could not be found because it hasn't been created yet.

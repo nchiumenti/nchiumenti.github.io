@@ -5,18 +5,23 @@ toc: false
 about: 
   template: jolla
   image-shape: round
-  image-width: 17em
+  image-width: 15em
   links:
     - text: SSRN
       href: https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=3124815
+      icon: journal-text
     - text: Google Scholar
       href: https://scholar.google.com/citations?hl=en&user=XOaSpUsAAAAJ 
+      icon: mortarboard
     - text: GitHub
       href: https://github.com/nchiumenti
+      icon: github
     - text: LinkedIn
       href: https://www.linkedin.com/in/nicholas-chiumenti-44006b53
+      icon: linkedin
     - text: Email
       href: mailto:nicholas.chiumenti@usda.gov
+      icon: envelope
 ---
 
 {{< lipsum 1 >}}

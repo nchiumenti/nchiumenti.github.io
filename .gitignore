@@ -1,2 +1,9 @@
 /.quarto/
 **/*.quarto_ipynb
+
+*
+
+!.gitignore
+
+_extensions/
+_extensions/shafayetShafee/bsicons/_extension.yml

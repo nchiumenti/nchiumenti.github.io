@@ -4,14 +4,7 @@
     "href": "resume.html",
     "title": "Resume/CV",
     "section": "",
-    "text": "Resume/CV"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nicholas Chiumenti",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    "text": "Resume/CV\n\n&lt;!-- Fallback content for browsers that do not support iframes --&gt;\n&lt;p&gt;\nYour browser does not support iframes. &lt;a href=\"assets/resume.pdf\"&gt;Download the PDF instead.&lt;/a&gt;\n&lt;/p&gt;"
   },
   {
     "objectID": "public.html",
@@ -19,5 +12,19 @@
     "title": "Public Talks and Presentations",
     "section": "",
     "text": "Public Talks and Presentations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nicholas Chiumenti",
+    "section": "",
+    "text": "I am an Economist in the Data Analytics Division of U.S. Department of Agriculture’s Rural Development agency, where I’ve been since 2023. Prior, I was a Policy Analyst with the New England Public Policy Center at the Federal Reserve Bank of Boston.\nThis site is a work in progress where I hope to showcase past, current, and future work. More to come soon!"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Chiumenti, Nicholas. 2022. Evictions in New England and the Impact of Public Policy. Regional Brief 22-2. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.\nTo stave off a flood of evictions during the COVID-19 pandemic, which was the feared outcome when millions of renting households were suddenly unemployed, Congress and many states implemented policies that included eviction moratoriums and federally funded rental-assistance programs. These programs succeeded in keeping millions of renters housed and driving eviction rates down in the early months of the pandemic. The number of evictions filed in New England declined 56 percent in 2020 and 39 percent in 2021 compared with the average number of evictions filed annually from 2017 through 2019—the pre-pandemic period. Recently, new fears have arisen that many renters remain financially unstable from the pandemic and that a dramatic increase in the number of evictions will follow the end of rental-assistance programs. Based on data from three New England states, it is not clear that these fears will be realized. Evictions rose modestly following the end of these programs in Massachusetts and Rhode Island but stayed below pre-pandemic levels. While in Connecticut, evictions spiked sharply once programs ended and remain slightly above pre-pandemic levels.\nDirect Link SSRN"
   }
 ]

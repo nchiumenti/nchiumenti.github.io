@@ -24,4 +24,10 @@ about:
       icon: envelope
 ---
 
-{{< lipsum 1 >}}
+I am an Economist in the Data Analytics Division of U.S. Department of 
+Agriculture's Rural Development agency, where I've been since 2023. Prior, I was 
+a Policy Analyst with the New England Public Policy Center at the Federal 
+Reserve Bank of Boston.
+
+This site is a work in progress where I hope to showcase past, current, and 
+future work. More to come soon!

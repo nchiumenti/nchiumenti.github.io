@@ -1,7 +1,18 @@
 ---
-title: "nchiumenti.github.io"
+title: "Nicholas Chiumenti"
+image: assets/photo.jpg
+toc: true
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/nicholas-chiumenti-44006b53
+    - text: GitHub
+      href: https://github.com/nchiumenti
+    - text: Email
+      href: mailto:nicholas.chiumenti@usda.gov
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+{{< lipsum 1 >}}

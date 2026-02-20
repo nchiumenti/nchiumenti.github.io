@@ -3,4 +3,5 @@
 *
 !.gitignore
 
-!/docs
+!docs/
+!docs/**

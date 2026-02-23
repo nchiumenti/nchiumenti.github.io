@@ -1,0 +1,13 @@
+Sood, Aradhya and **Nicholas Chiumenti.** 2022. [*Local Zoning Laws and the Supply of Multifamily Housing in Greater Boston.*](https://www.bostonfed.org/publications/new-england-public-policy-center-research-report/2022/local-zoning-laws-and-the-supply-of-multifamily-housing-in-greater-boston.aspx) Research Report 22-1. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.
+
+::: {style="padding-left: 2em;"}
+<details>
+  <summary>**Show Abstract:**</summary>
+  >Housing affordability is a significant issue in many U.S. metropolitan areas, including Greater Boston. Affordability has always been a major challenge for low-income renters; however, even middle-income families now face considerable affordability hurdles, particularly in metro areas with strong labor markets. Where people live has important implications for their health, schooling, and economic mobility. Researchers and policymakers have devoted attention to the role of land-use practices, such as regulating residential zoning, in creating housing affordability problems, particularly in the context of single-family houses. This paper studies how zoning regulations influence affordability in the context of multifamily housing, focusing on Greater Boston. It finds that reforms such as relaxing housing-density restrictions could lead to meaningful increases in the supply of multifamily housing and reductions in rents. 
+</details>
+
+[{{< bi filetype-pdf >}} PDF](/research/res-09/fedbcr94865.pdf) &emsp; 
+[{{< bi link-45deg >}} SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4238219)
+
+Media: [Forbes](https://www.forbes.com/sites/rogervaldez/2022/11/08/report-affirms-more-housing-means-lower-rents-and-prices/?sh=d3bcf076316e)
+:::

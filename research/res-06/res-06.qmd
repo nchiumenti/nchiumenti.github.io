@@ -1,0 +1,14 @@
+**Chiumenti, Nicholas.** 2020. [*Impact of the COVID-19 Pandemic on New England Homeowners and Renters.*](https://www.bostonfed.org/publications/new-england-public-policy-center-regional-briefs/2020/impact-of-the-covid-19-pandemic-on-new-england-homeowners-and-renters.aspx) Regional Brief 2020-2. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.
+
+::: {style="padding-left: 2em;"}
+<details>
+  <summary>**Show Abstract:**</summary>
+  > Job losses and likely layoffs related to the COVID-19 pandemic will put many New England residents at risk of not being able to pay their mortgage or rent and needing financial assistance and state-government safeguards to remain in their homes. Economic interventions from Congress, primarily through the federal CARES Act, include direct payments to households and increased unemployment insurance benefits that are expected to provide vital support to many of these households for the next three to four months. Even with these efforts, 2 to 3 percent of New England homeowners and 9 to 13 percent of New England renters may be unable to make their housing payments. Many states have temporarily halted evictions, foreclosures, or both to protect people from losing their homes, at least in the short term. However, once the economy begins to recover, these households will remain responsible for their unpaid rents and mortgages. This report’s findings represent the immediate, three- to four-month impact that the coronavirus outbreak and resulting legislation are likely having on New England households. The ultimate economic consequences of the pandemic, along with the adequacy of economic-policy responses, will be determined largely by how long it takes to stop the spread of the virus. 
+</details>
+
+[{{< bi filetype-pdf >}} PDF](/research/res-06/neppcrb2002.pdf) &emsp;
+[{{< bi link-45deg >}} SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3855935)
+
+Media: [Congressional Record](https://www.govinfo.gov/content/pkg/CREC-2020-07-01/html/CREC-2020-07-01-pt1-PgS4103.htm), 
+[Washington Post](https://www.washingtonpost.com/business/2020/05/20/new-england-unemployment-housing-crisis/)
+:::

@@ -1,0 +1,21 @@
+[Kulka, Amrita](https://sites.google.com/site/kulkaamrita), [Aradhya Sood](https://www.aradhyasood.com/) and **Nicholas Chiumenti**. (forthcoming). *Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations.* **Accepted at *Review of Economics and Statistics***
+
+::: {style="padding-left: 2em;"}
+<details>
+  <summary>**Show Abstract:**</summary>
+  > We study how various zoning regulations combine to affect housing supply, prices, and rents of single- and multifamily homes using novel lot-level zoning data from Greater Boston and a cross-sectional boundary discontinuity design at regulation boundaries. Looser density restrictions, alone or with other less restrictive regulations, are most effective in increasing supply and reducing per-housing-unit rents and prices. We theoretically and empirically show that restrictive zoning regulations shift housing stock towards larger units, increasing prices per housing unit. Counterfactuals imply that a recent Massachusetts law increasing building density near transit can reduce long-run rents and prices, particularly in suburbs.
+</details>
+
+[{{< bi filetype-pdf >}} Manuscript](https://github.com/nchiumenti/boston_zoning/blob/761470eeae67e8a4eb9de5afe192461aee1ea50a/paper/Kulka_Sood_Chiumenti_Zoning_Manuscript.pdf) &emsp; 
+[{{< bi body-text >}} Online appendix](https://github.com/nchiumenti/boston_zoning/blob/761470eeae67e8a4eb9de5afe192461aee1ea50a/paper/Kulka_Sood_Chiumenti_Zoning_Online_Appendix.pdf) &emsp; 
+[{{< bi link-45deg >}} SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082457) &emsp; 
+[{{< bi github >}} Repo](https://github.com/nchiumenti/boston_zoning) &emsp; 
+[{{< bi database-check >}} Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPSITL) &emsp;
+[{{< bi map >}} Historic Zoning Maps web tool](https://ruraldevelopment.maps.arcgis.com/apps/dashboards/71b650adca7f4b63972a174044ebd54b)
+
+Media: [Bloomberg[1]](https://www.bloomberg.com/opinion/articles/2022-08-04/the-us-needs-to-bribe-homeowners-to-accept-greater-density?sref=gzf6vN4G), 
+[Bloomberg[2]](https://www.bloomberg.com/news/articles/2022-05-24/the-limits-of-ending-single-family-zoning), 
+[Brookings](https://www.brookings.edu/articles/hutchins-roundup-zoning-laws-fed-forecasts-and-more/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=brookingsrss%2Ftopfeeds%2Flatestfrombrookings), 
+[GW Regulation Digest Vol. 11, No. 17](https://myemail.constantcontact.com/Regulation-Digest--April-27.html?soid=1103747366647&aid=X01e5aNgjG8), 
+[U. of Warwick, Expert Comment](https://warwick.ac.uk/fac/soc/economics/news/2025/1/expert_comment_chancellor_rachel_reeves_announces_a_new_approach_to_planning_around_stations/)
+:::

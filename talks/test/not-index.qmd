@@ -1,0 +1,7 @@
+---
+title: "blog post title"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+date: 10-24-2022
+draft: true
+---
+{{< lipsum 2 >}}

@@ -1,0 +1,11 @@
+**Chiumenti, Nicholas.** 2021. [*Rental Affordability and COVID-19 in Rural New England.*](https://www.bostonfed.org/publications/new-england-public-policy-center-regional-briefs/2021/rental-affordability-and-covid-19-in-rural-new-england.aspx) Regional Brief 2021-1. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.
+
+::: {style="padding-left: 2em;"}
+<details>
+  <summary>**Show Abstract:**</summary>
+  > Although a shortage of affordable rental housing is often framed as an urban-area issue, rural communities also suffer from this problem. On average, rural and urban renters spend similar shares of their income on rent and have comparable rates of housing-cost burden. Years of slow income growth and skyrocketing rents, particularly during the 2000–2010 period, have eroded slack in household budgets that may have gone toward other expenses or toward savings. The coronavirus pandemic likely has exacerbated affordability problems by putting many rural residents out of work. The share of jobs lost in rural New England communities has been large, even though these areas have seen far fewer cases of COVID-19 (relative to their population size and overall) compared with the region’s urban areas. This is in contrast with the experience in much of the rest of the country, where, as of January, rural areas nationally had seen far more COVID-19 cases but had lost a smaller share of jobs. Due to the economic conditions in the region’s rural areas, many renters could find it increasingly difficult to afford their housing costs. Even after the pandemic ends and the negative economic impact subsides, rural New England households likely will still face considerable affordability challenges. 
+</details>
+
+[{{< bi filetype-pdf >}} PDF](/research/res-07/neppcrb2101.pdf) &emsp; 
+[{{< bi link-45deg >}} SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3843794)
+:::

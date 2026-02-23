@@ -1,0 +1,17 @@
+**Chiumenti, Nicholas.** 2021. [*How the COVID-19 Pandemic Changed Household Migration in New England.*](https://www.bostonfed.org/publications/new-england-public-policy-center-regional-briefs/2021/how-the-covid-19-pandemic-changed-household-migration-in-new-england.aspx) Regional Brief 2021-3. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.
+
+::: {style="padding-left: 2em;"}
+
+Also featured in [*Massbenchmarks Journal* 2022 Volume 24, Issue 1](https://donahue.umass.edu/business-groups/economic-public-policy-research/massbenchmarks/massbenchmarks-journal-2022-v24i1)
+
+<details>
+  <summary>**Show Abstract:**</summary>
+  > The COVID-19 pandemic and the policies implemented to limit the spread of the virus brought about changes to domestic migration patterns in New England. Overall, the region lost about 50,000 fewer households to permanent out-migration in 2020 compared with 2019, as measured by United States Postal Service change-of-address requests. Every New England state except Massachusetts either lost fewer households or gained households for the first time since at least 2017. However, counties that added households generally saw an increase of less than 1 percent. The characteristics of a community mattered as to whether it gained or lost households. Communities with more than 1,000 people per square mile lost an average of 3 percent of households in 2020, while those with fewer than 1,000 people gained an average of 2 percent. The size of the college-student population in an area did not have a large effect on net migration, despite the move to online schooling for much of 2020. However, the share of seasonal housing in a community did. The number of households in areas with 25 percent to 50 percent seasonal housing stock grew by almost 2 percent through permanent net migration. Temporary net migration also led to positive net migration overall in much of New England in 2020, indicating that many of the new residents may not remain in their communities for the long term. 
+</details>
+
+[{{< bi filetype-pdf >}} PDF](/research/res-08/neppcrb2103.pdf) &emsp; 
+[{{< bi link-45deg >}} SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3975102) &emsp; 
+[{{< bi download >}} Data](/research/res-08/neppcrb2103-data.xlsx)
+
+Media: [WSHU](https://www.wshu.org/connecticut-news/2021-12-06/new-england-states-see-wave-of-in-migration-during-the-pandemic)
+:::

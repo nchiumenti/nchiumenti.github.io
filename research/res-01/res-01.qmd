@@ -1,0 +1,11 @@
+Henry, David K., Sandra D. Cooke-Hull, Jacqueline Savukinas, Alis Asadurian, **Chiumenti, Nicholas.** 2017. Estimating the Investment and Job Creation Impact of the EB-5 Program. U.S. Department of Commerce, Economics and Statistics Administration, Office of the Chief Economist. Washington, D.C. 
+
+::: {style="padding-left: 2em;"}
+<details>
+  <summary>**Show Abstract:**</summary>
+  > At the request of U.S. Citizenship and Immigration Services (USCIS) in the Department of Homeland Security (DHS), the Economics and Statistics Administration (ESA) of the Department of Commerce (DOC) conducted an assessment of the EB-5 program to determine its size and its contribution to the U.S. economy. To accomplish this, we examined individual projects that were active during a two-year period, FY2012 and FY2013, and compiled a new dataset that includes the number of EB-5 projects, the number of investors, the amount of EB-5 and non-EB-5 related investment spending and the resulting expected1 job creation.
+</details>
+
+[{{< bi filetype-pdf >}} PDF](/research/res-01/doc-esa-2017.pdf) &emsp; 
+[{{< bi link-45deg >}} SSRN]{.grey-link}
+:::

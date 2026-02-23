@@ -1,0 +1,10 @@
+---
+title: "Thing 3"
+description: "thing 3 description"
+author: Nicholas Chiumenti
+date: 02-22-2026
+categories: [thing-3, draft]
+#citation:
+#image: preview-image.png
+draft: true
+---

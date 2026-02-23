@@ -1,0 +1,20 @@
+**Chiumenti, Nicholas.** 2019. [*The Growing Shortage of Affordable Housing for the Extremely Low Income in Massachusetts.*](https://www.bostonfed.org/publications/new-england-public-policy-center-policy-report/2019/growing-shortage-affordable-housing-extremely-low-income-massachusetts.aspx) Policy Report 2019-1. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.
+
+::: {style="padding-left: 2em;"}
+
+Also featured in [*Massbenchmarks Journal* 2019 Volume 21, Issue 1](https://donahue.umass.edu/business-groups/economic-public-policy-research/massbenchmarks/massbenchmarks-journal-2019-v21i1)
+
+<details>
+  <summary>**Show Abstract:**</summary>
+  > This report identifies ways that the state's policymakers and housing agencies and providers can more efficiently use limited resources to address the affordable housing needs of extremely low-income households. The first is to prioritize rental assistance in areas of the state where rents are low and the inventory of market-supplied housing is high. Doing so will take advantage of local market conditions that are favorable to rental-assistance subsidies while addressing these areas? high rates of rent burden. Tax-credit and other supply-oriented subsidies can be targeted more heavily to areas with less affordable housing stock overall. Building geographic considerations into program administration can help achieve this tailoring of resources. Second, preserving expiring subsidies in smaller cities and towns will ensure broader access to affordable housing throughout Massachusetts. The state?s increasing need to preserve affordable housing is widely acknowledged and supported. Many of these units are located in major cities and metro areas; however, smaller cities and towns, while accounting for a smaller share of the subsidized housing, are at risk of seeing most or all of their subsidized units expire by 2025. 
+</details>
+
+[{{< bi filetype-pdf >}} PDF](/research/res-03/neppcpr1901.pdf) &emsp; 
+[{{< bi body-text >}} Appendix](/research/res-03/neppcpr1901-appendix.pdf) &emsp; 
+[{{< bi link-45deg >}} SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3364996) &emsp; 
+[{{< bi download >}} Data](/research/res-03/neppcpr1901-data.xlsx) &emsp; 
+[{{< bi map >}} Online map](https://public.tableau.com/app/profile/boston.fed/viz/shared/9C52G3JB7)
+
+Media: [WBUR](https://www.wbur.org/news/2019/04/03/boston-federal-reserve-housing-study);
+[BNN News](https://www.youtube.com/watch?v=JdP-vIKkktE)
+:::

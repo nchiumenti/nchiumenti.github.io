@@ -1,0 +1,75 @@
+---
+title: Research
+subtitle: Published research papers, reports, etc.
+date: today
+date-format: "MMMM DD, YYYY"
+format:
+  html:
+      toc: false
+---
+
+## Papers
+<!-- Rural America's Philanthropic Sector -->
+{{< include /research/res-13/res-13.qmd >}}
+
+---
+
+<!-- Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations. -->
+{{< include /research/res-12/res-12.qmd >}}
+
+---
+
+<!-- Evictions in New England and the Impact of Public Policy. -->
+{{< include /research/res-11/res-11.qmd >}}
+
+---
+
+<!-- How to Increase Housing Affordability? Understanding Local Deterrents to Building Multifamily Housing. -->
+{{< include /research/res-10/res-10.qmd >}}
+
+---
+
+<!-- Local Zoning Laws and the Supply of Multifamily Housing in Greater Boston. -->
+{{< include /research/res-09/res-09.qmd >}}
+
+---
+
+<!-- How the COVID-19 Pandemic Changed Household Migration in New England. -->
+{{< include /research/res-08/res-08.qmd >}}
+
+---
+
+<!-- Rental Affordability and COVID-19 in Rural New England. -->
+{{< include /research/res-07/res-07.qmd >}}
+
+---
+
+<!-- Impact of the COVID-19 Pandemic on New England Homeowners and Renters. -->
+{{< include /research/res-06/res-06.qmd >}}
+
+---
+
+<!-- Recent Trends in Residential Segregation in New England. -->
+{{< include /research/res-05/res-05.qmd >}}
+
+---
+
+<!-- Measuring Disparities in Cost and Spending across Connecticut School Districts. -->
+{{< include /research/res-04/res-04.qmd >}}
+
+---
+
+<!-- The Growing Shortage of Affordable Housing for the Extremely Low Income in Massachusetts. -->
+{{< include /research/res-03/res-03.qmd >}}
+
+---
+
+<!-- The Supply of Permanent Supportive Housing in Massachusetts: Comparing Availability to the Chronic Homeless Population. -->
+{{< include /research/res-02/res-02.qmd >}}
+
+---
+
+<!-- Estimating the Investment and Job Creation Impact of the EB-5 Program. U.S. -->
+{{< include /research/res-01/res-01.qmd >}}
+
+## Reports

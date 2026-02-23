@@ -1,0 +1,17 @@
+---
+title: Investing in Rural
+description: "Federal Reserve Bank of Richmond's 2024 Investing in Rural America: Building and Sustaining Momentum"
+author:
+  - name:
+    url:
+    orcid:
+    affiliation:
+    affiliation-url:
+date: 05-21-2024
+categories: default
+# citation: default
+image: post-image.jpg
+draft: false
+---
+
+slide deck here

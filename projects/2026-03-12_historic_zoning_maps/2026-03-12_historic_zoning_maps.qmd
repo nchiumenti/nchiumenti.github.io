@@ -1,0 +1,17 @@
+---
+title: Historic Zoning Maps
+subtitle: Greater Boston city & town historic zoning maps and current zoning boundary overlays.
+author: Nicholas Chiumenti
+date: 03-12-2026
+categories: [maps, appendix]
+#citation:
+#image: preview-image.png
+draft: false
+---
+
+A repo and quarto website for the historic zoning maps and current boundary 
+overlays. Part of A.2 Appendix for *Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations.*
+
+[Link to the Historix Zoning Map website.](https://nchiumenti.github.io/historic-zoning-map)
+
+[![](./screenshot.PNG)](https://nchiumenti.github.io/historic-zoning-map/){width="75%"}

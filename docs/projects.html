@@ -64,9 +64,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -162,7 +162,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YXBwZW5kaXg=">appendix <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFwcw==">maps <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -181,7 +181,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">February 22, 2026</p>
+      <p class="date-modified">March 12, 2026</p>
     </div>
   </div>
     
@@ -196,9 +196,37 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="bWFwcyUyQ2FwcGVuZGl4" data-listing-date-sort="1773288000000" data-listing-file-modified-sort="1773364969224" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
+<a href="./projects/2026-03-12_historic_zoning_maps/2026-03-12_historic_zoning_maps.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="projects\2026-03-12_historic_zoning_maps\screenshot.PNG" style="height: 100%;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Historic Zoning Maps
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('bWFwcw=='); return false;">maps</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('YXBwZW5kaXg='); return false;">appendix</div>
+
+</div>
+<div class="card-text listing-description delink">
+A repo and quarto website for the historic zoning maps and current boundary overlays. Part of A.2 Appendix for <em>Under the (Neighbor)Hood: Understanding Interactions Among…</em>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Nicholas Chiumenti
+</div>
+<div class="listing-date">
+March 12, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

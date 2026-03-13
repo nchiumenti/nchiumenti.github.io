@@ -11,7 +11,7 @@
 [{{< bi link-45deg >}} SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082457) &emsp; 
 [{{< bi github >}} Repo](https://github.com/nchiumenti/boston_zoning) &emsp; 
 [{{< bi database-check >}} Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LPSITL) &emsp;
-[{{< bi map >}} Historic Zoning Maps web tool](https://ruraldevelopment.maps.arcgis.com/apps/dashboards/71b650adca7f4b63972a174044ebd54b)
+[{{< bi map >}} Historic Zoning Maps web tool](https://nchiumenti.github.io/historic-zoning-map/)
 
 Media: [Bloomberg[1]](https://www.bloomberg.com/opinion/articles/2022-08-04/the-us-needs-to-bribe-homeowners-to-accept-greater-density?sref=gzf6vN4G), 
 [Bloomberg[2]](https://www.bloomberg.com/news/articles/2022-05-24/the-limits-of-ending-single-family-zoning), 

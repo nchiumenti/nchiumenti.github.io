@@ -1,4 +1,4 @@
-Zhao, Bo and **Chiumenti, Nicholas.** 2020. [*Measuring Disparities in Cost and Spending across Connecticut School Districts.*](https://www.bostonfed.org/publications/new-england-public-policy-center-research-report/2020/measuring-disparities-in-cost-and-spending-across-connecticut-school-districts.aspx) Research Report 2020-2. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.
+Zhao, Bo and **Nicholas Chiumenti.** 2020. [*Measuring Disparities in Cost and Spending across Connecticut School Districts.*](https://www.bostonfed.org/publications/new-england-public-policy-center-research-report/2020/measuring-disparities-in-cost-and-spending-across-connecticut-school-districts.aspx) Research Report 2020-2. Federal Reserve Bank of Boston, New England Public Policy Center. Boston, MA.
 
 ::: {style="padding-left: 2em;"}
 <details>

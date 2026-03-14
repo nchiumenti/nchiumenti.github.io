@@ -1,12 +1,14 @@
-**Nicholas Chiumenti**. (forthcoming). *Rural America's Philanhtropic Sector: Grantmaking and the Role of Philanthropy in Rural Communities.* U.S. Department of Agriculture, Rural Development.
+**Chiumenti, Nicholas** and Andrew Dumont. 2026. *Rural America's Philanhtropic Sector: Grantmaking and the Role of Philanthropy in Rural Communities.* U.S. Department of Agriculture, Rural Development.
 
 ::: {style="padding-left: 2em;"}
 <details>
   <summary>**Show Abstract:**</summary>
 </details>
 
-[{{< bi filetype-pdf >}} PDF]{.grey-link} &emsp; 
-[{{< bi body-text >}} Appendix]{.grey-link} &emsp; 
+[{{< bi filetype-pdf >}} PDF](https://www.rd.usda.gov/media/file/download/usda-rd-rural-philanthropy-report-03122026.pdf) &emsp; 
+[{{< bi body-text >}} Technical Appendix]{.grey-link} &emsp; 
 [{{< bi link-45deg >}} SSRN]{.grey-link} &emsp; 
 [{{< bi github >}} Repo]{.grey-link} &emsp;
+[{{< bi map >}} StoryMap](https://storymaps.arcgis.com/stories/d498f6bbff054f26b1d94d556832bd27) &emsp;
+[{{< bi link-45deg >}} USDA-RD Rural Data Gateway](https://www.rd.usda.gov/rural-data-gateway)
 :::
